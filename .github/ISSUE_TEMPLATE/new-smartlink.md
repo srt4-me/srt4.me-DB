@@ -23,3 +23,6 @@ url = "https://example.com"
 [[links]]
 text = "Email"
 url = "mailto:contact@example.com"
+
+Share url srt4.me/YourNumber 
+https://github.com/srt4-me/srt4.me-DB/issues for lookup
